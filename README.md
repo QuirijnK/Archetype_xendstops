@@ -20,3 +20,5 @@ I havent run it in an actual printer yet but the test prints seem to work well f
 Solder your two wire leads at a 90 degree angle so they come out to the front.
 Run these wires down, back up through the inside of the hotend mount, and then out again along your thermistor and heater wires to wherever.
 The probe mount uses two m3x18 instead of m3x16. M3x20 with some washers works well too (the probe mount is 3mm thick). The spacer mounts however it usually does.
+
+![header](./IMG/wire_routing.png)
