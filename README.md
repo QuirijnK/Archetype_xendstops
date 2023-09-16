@@ -11,9 +11,12 @@ Its compatible with:
 - all lengths of euclid.
 No beacon unfortunately, except with the spacer. (although no guarantees if that would work either, i have no idea how beacon works)
 
-It uses two m3x18 instead of the usual m3x16 to mount. M3x20 with some washers works well too (the probe mount is 3mm thick)
-
 The probe spacer has an integrated support block due to the required printing orientation. The endstop mount should stick out upwards.
 
 I havent run it in an actual printer yet but the test prints seem to work well for me. Let me know if you have any issues :)
 
+# Instructions
+
+Solder your two wire leads at a 90 degree angle so they come out to the front.
+Run these wires down, back up through the inside of the hotend mount, and then out again along your thermistor and heater wires to wherever.
+The probe mount uses two m3x18 instead of m3x16. M3x20 with some washers works well too (the probe mount is 3mm thick). The spacer mounts however it usually does.
