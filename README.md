@@ -2,7 +2,7 @@
 
 ![header](./IMG/header.png)
 
-These are two X endstop mounts for the armchair engineering archetype toolhead system. 
+These are two X endstop mounts for the armchair engineering archetype toolhead system (https://github.com/Armchair-Engineering/Archetype/tree/main). 
 Instead of mounting on the location where the washers clamp the underside of the mgn12 block, they mount to the probe block. Its also available as a replacement probe spacer.
 
 Its compatible with:
