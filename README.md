@@ -9,6 +9,7 @@ Its compatible with:
 - all lengths of klicky
 - all lenghts of klickyPCB
 - all lengths of euclid.
+
 No beacon unfortunately, except with the spacer. (although no guarantees if that would work either, i have no idea how beacon works)
 
 The probe spacer has an integrated support block due to the required printing orientation. The endstop mount should stick out upwards.
