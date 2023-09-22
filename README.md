@@ -5,16 +5,17 @@
 These are two X endstop mounts for the armchair engineering archetype toolhead system (https://github.com/Armchair-Engineering/Archetype/tree/main). 
 Instead of mounting on the location where the washers clamp the underside of the mgn12 block, they mount to the probe block. Its also available as a replacement probe spacer.
 
-Its compatible with:
+# Compatibility
 - all lengths of klicky
 - all lenghts of klickyPCB
 - all lengths of euclid.
 
 No beacon unfortunately, except with the spacer. (although no guarantees if that would work either, i have no idea how beacon works)
+Its also not compatible with flipped gantries, as it uses the xy joint's bottom part to click the endstop button. So no mjolnir or atrocity :( I'll see if i can think of a top mounted solution soon.
 
 The probe spacer has an integrated support block due to the required printing orientation. The endstop mount should stick out upwards.
 
-I havent run it in an actual printer yet but the test prints seem to work well for me. Let me know if you have any issues :)
+The probe mounted version works well for me in my trident. Please create an issue if you figure out incompatibility problems.
 
 # Instructions
 
