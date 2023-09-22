@@ -12,6 +12,7 @@ It's compatible with:
 - all lengths of euclid.
 
 No beacon unfortunately, except with the spacer. (although no guarantees if that would work either, i have no idea how beacon works)
+
 Its also not compatible with flipped gantries, as it uses the xy joint's bottom part to click the endstop button. So no mjolnir or atrocity :( I'll see if i can think of a top mounted solution soon.
 
 The probe spacer has an integrated support block due to the required printing orientation. The endstop mount should stick out upwards.
