@@ -1,5 +1,7 @@
 # Archetype_xendstops
 
+Update as of 30/01/24: This is still compatible with tne new experimental (v0.2) archetype. PLease send me a message if you find something that no longer works.
+
 ![header](./IMG/header.png)
 
 These are two X endstop mounts for the armchair engineering archetype toolhead system (https://github.com/Armchair-Engineering/Archetype/tree/main). 
