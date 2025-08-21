@@ -1,5 +1,9 @@
 # Archetype_xendstops
+Update as of 21/08/2025: Probably don't use this anymore!! I havent in at least a year. There's a more up to date endstop solution, that also works for y, available in the armchair usermods repo.
+https://github.com/Armchair-Heavy-Industries/Armchair-Usermods/tree/main/files/Archetype/ArcheStop_XY
 
+
+-----------------------
 Update as of 30/01/24: This is still compatible with tne new experimental (v0.2) archetype. PLease send me a message if you find something that no longer works.
 
 ![header](./IMG/header.png)
